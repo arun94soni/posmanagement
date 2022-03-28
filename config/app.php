@@ -121,7 +121,7 @@ return [
 
     'key' => env('APP_KEY'),
 
-    'cipher' => 'SomeRandomStringSomeRandomString',
+    'cipher' => 'base64:o2ckpd2crBkw1ELOu4GioVv0QCter97oS3HkjxrDevY=',
 
     /*
     |--------------------------------------------------------------------------
